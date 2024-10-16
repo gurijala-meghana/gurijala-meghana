@@ -1,3 +1,4 @@
+
 .👋 Hi, I’m @gurijala-meghana ,a passionate and Computer Science and Engineering student.
 . 👀 I’m fascinated by the realms of  Computer science encompasses many exciting areas, such as artificial intelligence, data science, cybersecurity, software development, and more. Is there a specific topic or project you're exploring within computer science  the endless possibilities they offer. My journey in this field is fueled by the cunosity to explore, leam, and contribute.
 .🌱 I’m currently immersed in the study of computer science, exploring various topics and technologies that are shaping the future. My learning journey encompasses everything from foundational principles to advanced concepts, as I aim to enhance my skills and knowledge in this dynamic field.
